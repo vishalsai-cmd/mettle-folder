@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+.title{
+    /* background: linear-gradient(180deg, #FCF6D1 0%, #BD9457 10.42%, #E3CA89 25%, #FEE8C8 69.79%, #4D3A1A 85.42%, #FCF0D1 100%); */
+    box-shadow: 0px 4px 4px 0px #00000099;
+
+}
+.container{
+    width: 536px;
+    height: 91px;
+    top: 917px;
+    left: 451px;
+    margin-left:14rem;
+}
+.text{
+    /* font-family: Black; */
+    font-size: 70px;
+    font-weight:500;
+    line-height: 91px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:goldenrod;
+    font-stretch:10rem;
+}
+.cont2{
+font-family: Outfit;
+font-size: 20px;
+font-weight: 400;
+line-height: 31px;
+letter-spacing: 0em;
+text-align: center;
+color: #FFFFFFCF;
+}
+.content{
+width: 938px;
+height: 324px;
+top: 1063px;
+left: 251px;
+}
+.project{
+    padding:0 20rem;
+    margin-top: 0rem;
+}
